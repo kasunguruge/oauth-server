@@ -1,2 +1,4 @@
 pom.xml filter=git-crypt diff=git-crypt
 src/** filter=git-crypt diff=git-crypt
+src/* filter=git-crypt diff=git-crypt
+*.xml filter=git-crypt diff=git-crypt
